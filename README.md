@@ -1,1 +1,1 @@
-# Power-BI-Projects
+Welcome to my Power BI Projects repository! Here, I showcase my data visualization skills using Microsoft Power BI. As a recent Big Data Analytics Post-Graduate with a strong programming background (Python, Java, R, SQL), I've harnessed Power BI to create interactive and insightful visualizations from various datasets.
